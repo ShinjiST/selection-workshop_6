@@ -21,12 +21,12 @@
     <td align="center">Frame 6</td>
   </tr>
   <tr>
-    <td><img src="images/Frame 1.1.png" height="120px"></td>
-    <td><img src="images/Frame 2.1.png" height="120px"></td>
-    <td><img src="images/Frame 3.1.png" height="120px"></td>
-    <td><img src="images/Frame 4.1.png" height="120px"></td>
-    <td><img src="images/Frame 5.1.png" height="120px"></td>
-    <td><img src="images/Frame 6.1.png" height="120px"></td>
+    <td><img src="images/Frame 1.1.png" height="130px"></td>
+    <td><img src="images/Frame 2.1.png" height="130px"></td>
+    <td><img src="images/Frame 3.1.png" height="130px"></td>
+    <td><img src="images/Frame 4.1.png" height="130px"></td>
+    <td><img src="images/Frame 5.1.png" height="130px"></td>
+    <td><img src="images/Frame 6.1.png" height="130px"></td>
   </tr>
 </table>
 
@@ -40,12 +40,12 @@
     <td align="center">Frame 12</td>
   </tr>
   <tr>
-    <td><img src="images/Frame 7.1.png" height="120px"></td>
-    <td><img src="images/Frame 8.1.png" height="120px"></td>
-    <td><img src="images/Frame 9.1.png" height="120px"></td>
-    <td><img src="images/Frame 10.1.png" height="120px"></td>
-    <td><img src="images/Frame 11.1.png" height="120px"></td>
-    <td><img src="images/Frame 12.1.png" height="120px"></td>
+    <td><img src="images/Frame 7.1.png" height="130px"></td>
+    <td><img src="images/Frame 8.1.png" height="130px"></td>
+    <td><img src="images/Frame 9.1.png" height="130px"></td>
+    <td><img src="images/Frame 10.1.png" height="130px"></td>
+    <td><img src="images/Frame 11.1.png" height="130px"></td>
+    <td><img src="images/Frame 12.1.png" height="130px"></td>
   </tr>
 </table>
 
