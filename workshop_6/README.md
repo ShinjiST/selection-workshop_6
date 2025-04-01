@@ -65,4 +65,4 @@
 Під час виконання завдання було опановано інструмент **Pen Tool** та принципи роботи з кривими Безьє у Figma. Це дозволяє створювати складні векторні об'єкти з високою точністю. Отримані навички значно розширюють можливості створення кастомних іконок та інших графічних елементів.
 
 ### Посилання на проект у Figma
-[Переглянути проект]([https://www.figma.com/design/PyqXTpPtZvkqPBkzqya1aT/24.03.2025?node-id=0-1&p=f&t=ICFFINP2G3WlmEKb-0](https://www.figma.com/design/u8DfBWvq4nz6leTOabBsAS/01.04.2025?node-id=0-1&p=f&t=iO1BofODKV4kYQHI-0)](https://www.figma.com/design/u8DfBWvq4nz6leTOabBsAS/01.04.2025?node-id=0-1&p=f&t=iO1BofODKV4kYQHI-0))
+[Переглянути проект](https://www.figma.com/design/u8DfBWvq4nz6leTOabBsAS/01.04.2025?node-id=0-1&p=f&t=iO1BofODKV4kYQHI-0)
