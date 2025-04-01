@@ -21,12 +21,12 @@
     <td align="center">Frame 6</td>
   </tr>
   <tr>
-    <td><img src="images/Frame1.png" height="170px"></td>
-    <td><img src="images/Frame2.png" height="170px"></td>
-    <td><img src="images/Frame3.png" height="170px"></td>
-    <td><img src="images/Frame4.png" height="170px"></td>
-    <td><img src="images/Frame5.png" height="170px"></td>
-    <td><img src="images/Frame6.png" height="170px"></td>
+    <td><img src="images/Frame 1.png" height="170px"></td>
+    <td><img src="images/Frame 2.png" height="170px"></td>
+    <td><img src="images/Frame 3.png" height="170px"></td>
+    <td><img src="images/Frame 4.png" height="170px"></td>
+    <td><img src="images/Frame 5.png" height="170px"></td>
+    <td><img src="images/Frame 6.png" height="170px"></td>
   </tr>
 </table>
 
@@ -40,12 +40,12 @@
     <td align="center">Frame 12</td>
   </tr>
   <tr>
-    <td><img src="images/Frame7.png" height="170px"></td>
-    <td><img src="images/Frame8.png" height="170px"></td>
-    <td><img src="images/Frame9.png" height="170px"></td>
-    <td><img src="images/Frame10.png" height="170px"></td>
-    <td><img src="images/Frame11.png" height="170px"></td>
-    <td><img src="images/Frame12.png" height="170px"></td>
+    <td><img src="images/Frame 7.png" height="170px"></td>
+    <td><img src="images/Frame 8.png" height="170px"></td>
+    <td><img src="images/Frame 9.png" height="170px"></td>
+    <td><img src="images/Frame 10.png" height="170px"></td>
+    <td><img src="images/Frame 11.png" height="170px"></td>
+    <td><img src="images/Frame 12.png" height="170px"></td>
   </tr>
 </table>
 
@@ -65,4 +65,4 @@
 Під час виконання завдання було опановано інструмент **Pen Tool** та принципи роботи з кривими Безьє у Figma. Це дозволяє створювати складні векторні об'єкти з високою точністю. Отримані навички значно розширюють можливості створення кастомних іконок та інших графічних елементів.
 
 ### Посилання на проект у Figma
-[Переглянути проект](https://www.figma.com/design/PyqXTpPtZvkqPBkzqya1aT/24.03.2025?node-id=0-1&p=f&t=ICFFINP2G3WlmEKb-0](https://www.figma.com/design/u8DfBWvq4nz6leTOabBsAS/01.04.2025?node-id=0-1&p=f&t=iO1BofODKV4kYQHI-0))
+[Переглянути проект]([https://www.figma.com/design/PyqXTpPtZvkqPBkzqya1aT/24.03.2025?node-id=0-1&p=f&t=ICFFINP2G3WlmEKb-0](https://www.figma.com/design/u8DfBWvq4nz6leTOabBsAS/01.04.2025?node-id=0-1&p=f&t=iO1BofODKV4kYQHI-0)](https://www.figma.com/design/u8DfBWvq4nz6leTOabBsAS/01.04.2025?node-id=0-1&p=f&t=iO1BofODKV4kYQHI-0))
